@@ -1,9 +1,7 @@
 # Mininet_Topology
-NIP (Paper KAR NIP structure topoology)\\
-AVP (Paper AVP NIP structure topoology)\\
-KeyPair (Paper KeyPair structure topoology)\\
-Each directory contains shell scipt to run Experiemnt\\
-Instantiate mininet topology (e.g. ./KeyPair) \\
+NIP, AVP and KeyPair Forwarding Files\
+Each directory contains shell scipt to run Experiemnt\
+Instantiate mininet topology (e.g. ./KeyPair) \
 Command on CLI : 
 ---------------------------------------------------------------------
 1. sudo mn --custom 15_keypair.py --switch user --arp --topo=mytopo
