@@ -1,9 +1,9 @@
 # Mininet_Topology
-# NIP -> Paper KAR NIP structure topoology
-# AVP -> Paper AVP NIP structure topoology
-# KeyPair -> Paper KeyPair structure topoology
-# Each directory contains shell scipt to run Experiemnt
-# Intantiate mininet topology (e.g. ./KeyPair) 
+NIP -> Paper KAR NIP structure topoology
+AVP -> Paper AVP NIP structure topoology
+KeyPair -> Paper KeyPair structure topoology
+Each directory contains shell scipt to run Experiemnt
+Intantiate mininet topology (e.g. ./KeyPair) 
 ---------------------------------------------------------------------
 Command on CLI : 
 ---------------------------------------------------------------------
