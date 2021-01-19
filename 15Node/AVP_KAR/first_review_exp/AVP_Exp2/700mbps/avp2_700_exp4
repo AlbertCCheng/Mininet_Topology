@@ -1,0 +1,46 @@
+------------------------------------------------------------
+Server listening on UDP port 5566
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 41] local 10.0.0.2 port 5566 connected with 10.0.0.1 port 53214
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 41]  0.0- 1.0 sec  79.3 MBytes   665 Mbits/sec   0.025 ms 2817/59355 (4.7%)
+[ 41]  1.0- 2.0 sec  77.3 MBytes   649 Mbits/sec   0.020 ms 4558/59715 (7.6%)
+[ 41]  2.0- 3.0 sec  77.2 MBytes   648 Mbits/sec   0.025 ms 4355/59421 (7.3%)
+[ 41]  3.0- 4.0 sec  78.9 MBytes   662 Mbits/sec   0.017 ms 3370/59627 (5.7%)
+[ 41]  4.0- 5.0 sec  78.8 MBytes   661 Mbits/sec   0.020 ms 3273/59457 (5.5%)
+[ 41]  5.0- 6.0 sec  79.6 MBytes   668 Mbits/sec   0.014 ms 2786/59593 (4.7%)
+[ 41]  6.0- 7.0 sec  74.4 MBytes   624 Mbits/sec   0.047 ms 6422/59470 (11%)
+[ 41] 6.00-7.00 sec  2373 datagrams received out-of-order
+[ 41]  7.0- 8.0 sec  58.0 MBytes   487 Mbits/sec   0.047 ms 18182/59566 (31%)
+[ 41] 7.00-8.00 sec  10426 datagrams received out-of-order
+[ 41]  8.0- 9.0 sec  58.2 MBytes   488 Mbits/sec   0.026 ms 18000/59533 (30%)
+[ 41] 8.00-9.00 sec  10935 datagrams received out-of-order
+[ 41]  9.0-10.0 sec  59.0 MBytes   495 Mbits/sec   0.037 ms 17352/59442 (29%)
+[ 41] 9.00-10.00 sec  10114 datagrams received out-of-order
+[ 41] 10.0-11.0 sec  59.5 MBytes   499 Mbits/sec   0.037 ms 17150/59577 (29%)
+[ 41] 10.00-11.00 sec  10225 datagrams received out-of-order
+[ 41] 11.0-12.0 sec  58.7 MBytes   493 Mbits/sec   0.033 ms 17582/59489 (30%)
+[ 41] 11.00-12.00 sec  10186 datagrams received out-of-order
+[ 41] 12.0-13.0 sec  57.9 MBytes   485 Mbits/sec   0.037 ms 18297/59574 (31%)
+[ 41] 12.00-13.00 sec  11183 datagrams received out-of-order
+[ 41] 13.0-14.0 sec  56.8 MBytes   476 Mbits/sec   0.039 ms 18938/59437 (32%)
+[ 41] 13.00-14.00 sec  11129 datagrams received out-of-order
+[ 41] 14.0-15.0 sec  59.0 MBytes   495 Mbits/sec   0.031 ms 17509/59588 (29%)
+[ 41] 14.00-15.00 sec  10809 datagrams received out-of-order
+[ 41] 15.0-16.0 sec  58.4 MBytes   490 Mbits/sec   0.052 ms 17794/59447 (30%)
+[ 41] 15.00-16.00 sec  10809 datagrams received out-of-order
+[ 41] 16.0-17.0 sec  61.4 MBytes   515 Mbits/sec   0.028 ms 15731/59524 (26%)
+[ 41] 16.00-17.00 sec  8275 datagrams received out-of-order
+[ 41] 17.0-18.0 sec  68.7 MBytes   576 Mbits/sec   0.029 ms 10528/59534 (18%)
+[ 41] 18.0-19.0 sec  73.0 MBytes   613 Mbits/sec   0.024 ms 7303/59407 (12%)
+[ 41] 19.0-20.0 sec  60.0 MBytes   504 Mbits/sec   0.027 ms 16676/59494 (28%)
+[ 41] 19.00-20.00 sec  27 datagrams received out-of-order
+[ 41] 20.0-21.0 sec  75.7 MBytes   635 Mbits/sec   0.013 ms 5756/59774 (9.6%)
+[ 41] 21.0-22.0 sec  74.5 MBytes   625 Mbits/sec   0.022 ms 6259/59419 (11%)
+[ 41] 22.0-23.0 sec  69.0 MBytes   579 Mbits/sec   0.024 ms 10188/59381 (17%)
+[ 41] 23.0-24.0 sec  65.3 MBytes   548 Mbits/sec   0.026 ms 13018/59592 (22%)
+[ 41] 23.00-24.00 sec  6 datagrams received out-of-order
+[ 41]  0.0-24.0 sec  1.58 GBytes   566 Mbits/sec   0.025 ms 273866/1428570 (19%)
+[ 41] 0.00-24.00 sec  106497 datagrams received out-of-order

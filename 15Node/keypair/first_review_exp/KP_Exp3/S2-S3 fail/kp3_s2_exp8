@@ -1,0 +1,31 @@
+------------------------------------------------------------
+Server listening on UDP port 5566
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 41] local 10.0.0.2 port 5566 connected with 10.0.0.1 port 59920
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 41]  0.0- 1.0 sec  23.9 MBytes   200 Mbits/sec   0.011 ms    0/17014 (0%)
+[ 41]  1.0- 2.0 sec  23.8 MBytes   200 Mbits/sec   0.017 ms    0/17007 (0%)
+[ 41]  2.0- 3.0 sec  23.8 MBytes   200 Mbits/sec   0.017 ms    0/17007 (0%)
+[ 41]  3.0- 4.0 sec  23.6 MBytes   198 Mbits/sec   0.016 ms  147/17006 (0.86%)
+[ 41]  4.0- 5.0 sec  23.7 MBytes   199 Mbits/sec   0.013 ms  110/17007 (0.65%)
+[ 41]  5.0- 6.0 sec  23.8 MBytes   200 Mbits/sec   0.017 ms    0/17007 (0%)
+[ 41]  6.0- 7.0 sec  22.4 MBytes   188 Mbits/sec   0.014 ms 1018/17007 (6%)
+[ 41]  7.0- 8.0 sec  23.3 MBytes   196 Mbits/sec   0.012 ms  359/17007 (2.1%)
+[ 41]  8.0- 9.0 sec  22.1 MBytes   186 Mbits/sec   0.038 ms 1205/17004 (7.1%)
+[ 41]  9.0-10.0 sec  23.3 MBytes   195 Mbits/sec   0.011 ms  400/17009 (2.4%)
+[ 41] 10.0-11.0 sec  23.8 MBytes   200 Mbits/sec   0.014 ms    0/17007 (0%)
+[ 41] 11.0-12.0 sec  23.6 MBytes   198 Mbits/sec   0.015 ms  139/17007 (0.82%)
+[ 41] 12.0-13.0 sec  23.8 MBytes   200 Mbits/sec   0.015 ms    0/17007 (0%)
+[ 41] 13.0-14.0 sec  23.1 MBytes   194 Mbits/sec   0.013 ms  522/17006 (3.1%)
+[ 41] 14.0-15.0 sec  23.8 MBytes   200 Mbits/sec   0.011 ms    0/17007 (0%)
+[ 41] 15.0-16.0 sec  23.8 MBytes   200 Mbits/sec   0.018 ms   15/17007 (0.088%)
+[ 41] 16.0-17.0 sec  23.7 MBytes   199 Mbits/sec   0.020 ms  126/17007 (0.74%)
+[ 41] 17.0-18.0 sec  23.8 MBytes   200 Mbits/sec   0.018 ms    0/17007 (0%)
+[ 41] 18.0-19.0 sec  23.8 MBytes   200 Mbits/sec   0.021 ms   20/17007 (0.12%)
+[ 41] 19.0-20.0 sec  23.7 MBytes   199 Mbits/sec   0.010 ms   80/17006 (0.47%)
+[ 41] 20.0-21.0 sec  23.7 MBytes   199 Mbits/sec   0.009 ms   88/17008 (0.52%)
+[ 41] 21.0-22.0 sec  23.8 MBytes   200 Mbits/sec   0.015 ms    0/17006 (0%)
+[ 41] 22.0-23.0 sec  23.8 MBytes   200 Mbits/sec   0.014 ms    0/17007 (0%)
+[ 41]  0.0-24.0 sec   566 MBytes   198 Mbits/sec   0.017 ms 4229/408165 (1%)
